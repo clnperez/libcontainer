@@ -1,4 +1,4 @@
-// +build !arm,!ppc64,!ppc64le
+// +build !arm,!ppc64,!ppc64le gccgo,ppc64 gccgo,ppc64le
 
 package netlink
 
